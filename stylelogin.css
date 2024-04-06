@@ -1,0 +1,5 @@
+body{
+    background-image: url(download.jpeg),url(download\ \(1\).jpeg),url(download\ \(2\).jpeg),url(download\ \(3\).jpeg),url(images.jpeg),url(download\ \(4\).jpeg),url(download\ \(5\).jpeg),url(download\ \(6\).jpeg);
+    background-repeat: no-repeat;
+    background-position: left top, center top,right top,right center,right bottom,center bottom,left bottom,left center;
+}
